@@ -67,7 +67,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "5650bba7cb2d17f5ac1c543ee6c0d72560624aa530e1dc51d2aa9772e96d991a"
+hash = "249b9a3bfcb8a23719e656abb121094e63c6d88eeab08f2fbd8ae569948d5303"
 metafile = true
 
 [[files]]
@@ -181,6 +181,11 @@ hash = "97eb729e49a82c5110f5552d76398792908ba1b90dcba5369f50e40f7a81cf3e"
 metafile = true
 
 [[files]]
+file = "mods/mob-tactics-combat-ai-by-bogdan-tokarev.pw.toml"
+hash = "b9ace0dc8d4a4ca9fa69663e26a519d5d6eec309e29d01fb336cd8af541e9283"
+metafile = true
+
+[[files]]
 file = "mods/modernfix-mvus.pw.toml"
 hash = "3b3b9e886735bd8d8809954b7da8d1cca5b8186086379f129f0e4183470a7b2b"
 metafile = true
@@ -203,6 +208,11 @@ metafile = true
 [[files]]
 file = "mods/presence-footsteps.pw.toml"
 hash = "279d7c9d5c8f3c2ba00181c7be8b4de3d6f51174301cb9eff632db1cb34a5477"
+metafile = true
+
+[[files]]
+file = "mods/progressive-world-difficulty.pw.toml"
+hash = "d5b581070955abe9403dd9dc514fdfae731cce7d985ea3dc57415988bf1ec514"
 metafile = true
 
 [[files]]
@@ -267,7 +277,7 @@ metafile = true
 
 [[files]]
 file = "mods/worldedit.pw.toml"
-hash = "1adf566c901166db733f5758819a3dbdc6414f38e5cd80dd9c3a11f25c27ecc6"
+hash = "bf86a568e9d9c647113d3be42de02b4490aa62fd5c61b7e24a86f3ddb57e9e62"
 metafile = true
 
 [[files]]
