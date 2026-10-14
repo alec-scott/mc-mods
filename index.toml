@@ -127,7 +127,7 @@ metafile = true
 
 [[files]]
 file = "mods/journeymap-web-map.pw.toml"
-hash = "970553f7501dec54ef7c8ee8b9ed8c0c271a95765623bcbbc59aafc6f531ab5a"
+hash = "6b312fee485e9916358f7998163a13e7ead97935562e7a66f589fd449642ae87"
 metafile = true
 
 [[files]]
@@ -248,6 +248,11 @@ metafile = true
 [[files]]
 file = "mods/spark.pw.toml"
 hash = "9b0969e4afbc18124775c008361dc1cfb9a17e49098d93d067b6342a4a54427c"
+metafile = true
+
+[[files]]
+file = "mods/squaremap.pw.toml"
+hash = "f18016b6cd8070fd007f2ddf4a291624ed07617e8a1a798d9b164e7320f0a908"
 metafile = true
 
 [[files]]
