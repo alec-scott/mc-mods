@@ -1,0 +1,13 @@
+name = "Zombie Improvements"
+filename = "zombieimprovements-fabric-1.2.2+26.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/1NeE16sL/versions/2PRZShmu/zombieimprovements-fabric-1.2.2%2B26.3.jar"
+hash-format = "sha512"
+hash = "2fe182e14992305f5d114ede20f5a2b6be30544deaebdf4572ad41d76b4f7e78e80bd42ee1ecb5c5bd1f110f7e0792850008a36f5a3c17f7a35a5033550d2580"
+
+[update]
+[update.modrinth]
+mod-id = "1NeE16sL"
+version = "2PRZShmu"

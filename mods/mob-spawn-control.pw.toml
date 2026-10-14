@@ -1,0 +1,13 @@
+name = "Mob Spawn Control"
+filename = "viper-spawn-control-26.3-1.0.0.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/RP09ja0V/versions/NNbIeGb1/viper-spawn-control-26.3-1.0.0.jar"
+hash-format = "sha512"
+hash = "cfa9daa7dfe59d54581acbf69e9348feede3e0bfc00f702e1de737e15789f7408ec75bb3b1233bc6ecc4ad075e3447243392f97aad2ffc76702f84ebbfbdf675"
+
+[update]
+[update.modrinth]
+mod-id = "RP09ja0V"
+version = "NNbIeGb1"

@@ -1,0 +1,13 @@
+name = "Magic Moon"
+filename = "magicmoon-fabric-mc26.3-1.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/O7m3DxOi/versions/qQEh6VZC/magicmoon-fabric-mc26.3-1.1.0.jar"
+hash-format = "sha512"
+hash = "7e3a1a25b839149409333b052247f459cc0cf2e18d30d895273c091b78ef9407d2f5257af01bd1d902f6787147ea3c09329a960d0fb40be7318774d40ecf2bff"
+
+[update]
+[update.modrinth]
+mod-id = "O7m3DxOi"
+version = "qQEh6VZC"
