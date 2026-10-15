@@ -46,11 +46,6 @@ hash = "392746505f6c2b765d6fcaed8179f36ddfff4deb30fd83a2590bbf36638e7e02"
 metafile = true
 
 [[files]]
-file = "mods/contagion.pw.toml"
-hash = "01b22e61723ed27fc9caaae07ec71d9d09bd68fa46b07b10446b1b01ba014eb6"
-metafile = true
-
-[[files]]
 file = "mods/creativecore.pw.toml"
 hash = "f9bd6e85174067ba0c09a571e1851a39f3eaa695624f5e3cf090edcaf141c35c"
 metafile = true
@@ -98,11 +93,6 @@ metafile = true
 [[files]]
 file = "mods/fzzy-config.pw.toml"
 hash = "c58c2833133c443be550bcdec3a2438b2dadeae2ebc2c6799e820cce86ce4b95"
-metafile = true
-
-[[files]]
-file = "mods/geophilic.pw.toml"
-hash = "ce80282cf83ed5b08cddacfb6bd70851da1ac6b5f7e38264a0dc11b34dbbfe53"
 metafile = true
 
 [[files]]
@@ -193,6 +183,11 @@ metafile = true
 [[files]]
 file = "mods/modmenu.pw.toml"
 hash = "cd05db76d670773ace1184abdd46126e7b7c75c2b70da82e1764cff9544c4269"
+metafile = true
+
+[[files]]
+file = "mods/naturalist.pw.toml"
+hash = "c643d8443d2811c0275b7f8f80383c56343db2e69a3807e945254b7843dc8f58"
 metafile = true
 
 [[files]]
