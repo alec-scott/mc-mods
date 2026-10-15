@@ -11,6 +11,11 @@ hash = "ff675667f4c6924a9eaebc42dc2df5306dc5e8b005e931d9d8b73cebad67d5eb"
 metafile = true
 
 [[files]]
+file = "mods/betterf3.pw.toml"
+hash = "d3c07272ae992b894ee2deb23e68d46f21048e670c664898bac9522da5bdd5ab"
+metafile = true
+
+[[files]]
 file = "mods/c2me-fabric.pw.toml"
 hash = "24d8e8624a6fd065cac3c3972cdb755e007a83f75c455bbb01c9e00ef8972ea4"
 metafile = true
@@ -51,13 +56,18 @@ hash = "f9bd6e85174067ba0c09a571e1851a39f3eaa695624f5e3cf090edcaf141c35c"
 metafile = true
 
 [[files]]
-file = "mods/distanthorizons.pw.toml"
-hash = "8cfd619edd7190fdd7f048bc7815193699d0583857f988e421b8e7816167ad25"
+file = "mods/entity-model-features.pw.toml"
+hash = "eb9fd7324d0bc7717b3f128aea47edae105c4800ab55590f1ba6cc1448d6bb7a"
 metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
 hash = "29f920b8bdac98a1a1d9e6454d0c3b4d0eb1f3779f2fea7b7df177b2163e5d61"
+metafile = true
+
+[[files]]
+file = "mods/entitytexturefeatures.pw.toml"
+hash = "174132163654f70d74e319cabd754b78abae9b690c9017642e7a22a51ffbb43c"
 metafile = true
 
 [[files]]
@@ -93,6 +103,11 @@ metafile = true
 [[files]]
 file = "mods/fzzy-config.pw.toml"
 hash = "c58c2833133c443be550bcdec3a2438b2dadeae2ebc2c6799e820cce86ce4b95"
+metafile = true
+
+[[files]]
+file = "mods/ingeniumapi.pw.toml"
+hash = "327a098c4b25a16b6f81b84b69c936d34eaf774ea53c718ad1028aa87991be8c"
 metafile = true
 
 [[files]]
@@ -148,11 +163,6 @@ metafile = true
 [[files]]
 file = "mods/lithostitched.pw.toml"
 hash = "ccee57f34e035e85ebb41db22ba255b61aa885f69bd8ef2f7b818be7fa546750"
-metafile = true
-
-[[files]]
-file = "mods/magic-moon.pw.toml"
-hash = "1aee1c7d831977e039fdf06c4dfe79d9d19b1563c182662603981fdfbf980279"
 metafile = true
 
 [[files]]
@@ -216,13 +226,28 @@ hash = "79f8a0c041d07260a01a65a0e3810babcf1d859a8d7593545dde90bcf39dc20f"
 metafile = true
 
 [[files]]
+file = "mods/sails-and-airships.pw.toml"
+hash = "f706ed8160db4b62ac5a4c332d5d57e262265947368027936ba02fef4bca709e"
+metafile = true
+
+[[files]]
 file = "mods/scalablelux.pw.toml"
 hash = "8ab8d9da45456dfc8146a7d4b4b4243c69ba5b4375d086f361bf23df6e14988a"
 metafile = true
 
 [[files]]
+file = "mods/shippy-ships.pw.toml"
+hash = "7ca4d157c746ce2c09060ad9b515370fd009ca25ebf5674d557f8ce101542c10"
+metafile = true
+
+[[files]]
 file = "mods/shulkerboxtooltip.pw.toml"
 hash = "a60445c98a3a1412a6429357cb70302af6505165049f57f29b81b1489c4673b9"
+metafile = true
+
+[[files]]
+file = "mods/skeleton-ai-fix.pw.toml"
+hash = "b68cf154e42fc3e6a94de2e1796eea63a4be94431b014d03ee8531395f6da7f6"
 metafile = true
 
 [[files]]
@@ -251,6 +276,11 @@ hash = "19a5990ab3f8b714030f37bcc072f04d721145dddff6434e4ebd79959087c8a3"
 metafile = true
 
 [[files]]
+file = "mods/streams-reflowing.pw.toml"
+hash = "f54d8c49e2f2b24d58d062f92506776fcf4b06a1b87634dd5ccf48b06c2ab2b1"
+metafile = true
+
+[[files]]
 file = "mods/sway.pw.toml"
 hash = "dfea6d50342d96a16e4a7a9f54846d8475ef63c85195e09e5df944b06cb4eeed"
 metafile = true
@@ -271,8 +301,23 @@ hash = "c981452e48f756282f7f21dc5794aedbd8c6649fcad471126711a6e8982d50b8"
 metafile = true
 
 [[files]]
+file = "mods/undead-nights.pw.toml"
+hash = "8058c0434a925e9d7ebb8250c660af0058250ade08b1846cd8b8f96187584b11"
+metafile = true
+
+[[files]]
 file = "mods/visuality.pw.toml"
 hash = "654073f6a13203019cd895e3a4d2d531efc1c40f1f1c385b082473584ff0af48"
+metafile = true
+
+[[files]]
+file = "mods/voxy-worldgen.pw.toml"
+hash = "f89410d8372438d00a05b5f6dcfa4d73de70b444172ead4768b93e40b183caa7"
+metafile = true
+
+[[files]]
+file = "mods/voxy.pw.toml"
+hash = "71d059b58ff61f935fb117777ddac39ee49d733500ff6ec9233121b7b3cbc9b0"
 metafile = true
 
 [[files]]
@@ -311,6 +356,21 @@ hash = "7ac50a41949c05df550b62d54051bc171491644eef010aa19bd8abe3419909b1"
 metafile = true
 
 [[files]]
+file = "resourcepacks/fa-player-extension.pw.toml"
+hash = "2e1a6866e4366cebe200dcf71ab52923b7653f76dc48741b93411ee3bf77372a"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fresh-animations-extensions.pw.toml"
+hash = "739f03f8af2fa7746886d62e7f3ea25a773b5775c74b2b7a47a776510d7e11de"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fresh-animations.pw.toml"
+hash = "91f03f95a740457e053a3c265b56ebe3b26342205c5e25ba3e4668ed60312880"
+metafile = true
+
+[[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
 hash = "75d1d2488a0c332a9a58af7e57f980a1b006c02b3a1c580fbd50443088e4eab0"
 metafile = true
@@ -318,4 +378,9 @@ metafile = true
 [[files]]
 file = "shaderpacks/complementary-unbound.pw.toml"
 hash = "1a3d3663c44dc21e227c39c42ea9b5e3c4f3b2e3b5272ed55b45da9e247a46d7"
+metafile = true
+
+[[files]]
+file = "shaderpacks/photon-shader.pw.toml"
+hash = "e9112a2da03f65451c8c949331d71b92546bbd75ff78eac554d27f6c41e1ba29"
 metafile = true

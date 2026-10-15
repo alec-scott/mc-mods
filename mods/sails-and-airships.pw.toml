@@ -1,0 +1,13 @@
+name = "Sails and Airships: Block-Based Ships"
+filename = "sailsandairships-1.0.5+26.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/i2NMqEAG/versions/uljTEUoW/sailsandairships-1.0.5%2B26.3.jar"
+hash-format = "sha512"
+hash = "d1cb4d245165cbc16f1de262bb074eec218373df0a19a09c27f63b933deeefec22df2e92c6161a0d39c272d94d5ea3c097c73461561f83cc1361892e4eaf8d79"
+
+[update]
+[update.modrinth]
+mod-id = "i2NMqEAG"
+version = "uljTEUoW"

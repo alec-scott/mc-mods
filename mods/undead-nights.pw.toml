@@ -1,0 +1,13 @@
+name = "Undead Nights - Zombie Horde Nights / Hordes"
+filename = "UndeadNights-2.2.6-Fabric-mc26.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/g0mmcQV2/versions/yfdKZWca/UndeadNights-2.2.6-Fabric-mc26.3.jar"
+hash-format = "sha512"
+hash = "319b21d44b036b1798ab0cd81c78d3eb07c9b53d1818819cc8e019b24dd3ce13477c8d93e6d70a6299c5e6382a9c86ab8db097bc81b9a40926a75c6d5e7acfcb"
+
+[update]
+[update.modrinth]
+mod-id = "g0mmcQV2"
+version = "yfdKZWca"

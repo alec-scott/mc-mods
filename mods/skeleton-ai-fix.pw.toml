@@ -1,0 +1,13 @@
+name = "Skeleton AI Fix"
+filename = "skeletonaifix-v26.3.0-mc26.3.x+fabric.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/jn24bUJo/versions/NPwALHEv/skeletonaifix-v26.3.0-mc26.3.x%2Bfabric.jar"
+hash-format = "sha512"
+hash = "43156ea889cfd8fd707994269bfcf3dc4038d6ce57e8cc9e41482a4c45d16477f0803aeca1cbfe429cdd78080a74a9b9aa82a5499a82e148784526c7494363d6"
+
+[update]
+[update.modrinth]
+mod-id = "jn24bUJo"
+version = "NPwALHEv"
