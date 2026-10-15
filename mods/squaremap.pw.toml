@@ -1,6 +1,6 @@
 name = "squaremap"
 filename = "squaremap-fabric-mc26.3-1.4.2.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/PFb7ZqK6/versions/TqjWSPGz/squaremap-fabric-mc26.3-1.4.2.jar"

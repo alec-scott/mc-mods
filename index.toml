@@ -162,7 +162,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithostitched.pw.toml"
-hash = "ccee57f34e035e85ebb41db22ba255b61aa885f69bd8ef2f7b818be7fa546750"
+hash = "f4c7c038c07a70112f53d904eb730ce3ca2af7c6b8caba4437b1d88dc9df395b"
 metafile = true
 
 [[files]]
@@ -173,11 +173,6 @@ metafile = true
 [[files]]
 file = "mods/mezzconfig.pw.toml"
 hash = "8257e769f3b2db4005d1eb546ba47f5f8aade30c8b23f0155be1ae40a46f0dfc"
-metafile = true
-
-[[files]]
-file = "mods/mob-spawn-control.pw.toml"
-hash = "97eb729e49a82c5110f5552d76398792908ba1b90dcba5369f50e40f7a81cf3e"
 metafile = true
 
 [[files]]
@@ -267,7 +262,7 @@ metafile = true
 
 [[files]]
 file = "mods/squaremap.pw.toml"
-hash = "f18016b6cd8070fd007f2ddf4a291624ed07617e8a1a798d9b164e7320f0a908"
+hash = "d2bbbe8eadb79fc43e7e7f8ec58917d510f44c0a6fabe0ee01860228a7e0a79d"
 metafile = true
 
 [[files]]
@@ -357,7 +352,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/fresh-animations.pw.toml"
-hash = "91f03f95a740457e053a3c265b56ebe3b26342205c5e25ba3e4668ed60312880"
+hash = "213428b7676adfaa1c59fcfe93e6e7f3d0257e236f32a5a245eb0fc966e1b218"
 metafile = true
 
 [[files]]
