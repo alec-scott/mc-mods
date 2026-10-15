@@ -321,16 +321,6 @@ hash = "7b82bfcde20d2ac0fb158c003caf5288523272ca462f519864ee424912e4e4dd"
 metafile = true
 
 [[files]]
-file = "mods/yungs-api.pw.toml"
-hash = "f063d2ffc6a8f132c2826f684cd39734862e44fc30f02b51a049e4c55a846c66"
-metafile = true
-
-[[files]]
-file = "mods/yungs-better-end-island.pw.toml"
-hash = "6161820c416425dda8cb0f35486e3ac7f3031ef71faffaf5d7129fbe68c99963"
-metafile = true
-
-[[files]]
 file = "mods/zconfig.pw.toml"
 hash = "8078347c8e2fd79bbb3e414fd36bc319e2d043f8d3b955c14f430fee0b5d6843"
 metafile = true
