@@ -311,11 +311,6 @@ hash = "654073f6a13203019cd895e3a4d2d531efc1c40f1f1c385b082473584ff0af48"
 metafile = true
 
 [[files]]
-file = "mods/voxy.pw.toml"
-hash = "71d059b58ff61f935fb117777ddac39ee49d733500ff6ec9233121b7b3cbc9b0"
-metafile = true
-
-[[files]]
 file = "mods/worldedit.pw.toml"
 hash = "bf86a568e9d9c647113d3be42de02b4490aa62fd5c61b7e24a86f3ddb57e9e62"
 metafile = true
@@ -323,6 +318,11 @@ metafile = true
 [[files]]
 file = "mods/yacl.pw.toml"
 hash = "7b82bfcde20d2ac0fb158c003caf5288523272ca462f519864ee424912e4e4dd"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-end-island.pw.toml"
+hash = "6161820c416425dda8cb0f35486e3ac7f3031ef71faffaf5d7129fbe68c99963"
 metafile = true
 
 [[files]]
