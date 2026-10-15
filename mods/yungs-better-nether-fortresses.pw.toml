@@ -1,0 +1,13 @@
+name = "YUNG's Better Nether Fortresses"
+filename = "YungsBetterNetherFortresses-26.1.2-Fabric-4.1.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/Z2mXHnxP/versions/itXNeE2A/YungsBetterNetherFortresses-26.1.2-Fabric-4.1.1.jar"
+hash-format = "sha512"
+hash = "0c77cfde867b5809bf70165a7c0e55d7d3d8de307b04395c9b02635f838cedae35b6f4a1362b1fb99bce501fed71754250dc6407dd0717893262aec1c8df5cdb"
+
+[update]
+[update.modrinth]
+mod-id = "Z2mXHnxP"
+version = "itXNeE2A"

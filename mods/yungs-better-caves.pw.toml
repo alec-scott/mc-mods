@@ -1,0 +1,13 @@
+name = "YUNG's Better Caves"
+filename = "YungsBetterCaves-26.1.2-Fabric-4.1.2.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/Dfu00ggU/versions/u7AHWTq9/YungsBetterCaves-26.1.2-Fabric-4.1.2.jar"
+hash-format = "sha512"
+hash = "4f57068439592eb90d4b85052fc14dc26d72ebbedfcb2a9f8b81cdb0c3c18fd109c2a8dd9357948f5117c3c09c0e1ba86757b1293510fce91307bf35ef5f2920"
+
+[update]
+[update.modrinth]
+mod-id = "Dfu00ggU"
+version = "u7AHWTq9"

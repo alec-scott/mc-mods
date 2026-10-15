@@ -1,0 +1,13 @@
+name = "YUNG's Better Dungeons"
+filename = "YungsBetterDungeons-26.1.2-Fabric-6.1.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/o1C1Dkj5/versions/ZAy29qXU/YungsBetterDungeons-26.1.2-Fabric-6.1.1.jar"
+hash-format = "sha512"
+hash = "a9a6771150be75e3209fd61ab466fe28115fe75c8ffb5559bb1a1feb7129a02708bc0fb60ae40d567db65a974a41a3610a437dc11e3ab0572da5505f1ae73ee1"
+
+[update]
+[update.modrinth]
+mod-id = "o1C1Dkj5"
+version = "ZAy29qXU"

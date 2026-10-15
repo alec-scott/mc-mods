@@ -106,6 +106,11 @@ hash = "de954e56216772900768426c541731ec91d0c7bd1c5037ad2f6cc5552f87c635"
 metafile = true
 
 [[files]]
+file = "mods/guns_plus_plus.pw.toml"
+hash = "be3259dfcba4b7911f217425b4eca82dcd1e7459bca866cb30bcd1b8a93962e9"
+metafile = true
+
+[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "59d8a7808f69deae5bc1c17ed2db6c28cb231398681f6f7902ae7e92da229e1a"
 metafile = true
@@ -311,8 +316,73 @@ hash = "f063d2ffc6a8f132c2826f684cd39734862e44fc30f02b51a049e4c55a846c66"
 metafile = true
 
 [[files]]
+file = "mods/yungs-better-caves.pw.toml"
+hash = "25d1b9bd8e6914372d01ba235aede354f1b4a41c78447e3ececda8765dcf87a3"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-desert-temples.pw.toml"
+hash = "6f149ecea1dd5dd15e6d2fd20e248edc4970a6a91d03c22db0bd6fcca8839901"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-dungeons.pw.toml"
+hash = "8b30ecf7294f635e9a5d6978519b9dc78f05da4e2ee25a72c2c35ebe33b2fb0a"
+metafile = true
+
+[[files]]
 file = "mods/yungs-better-end-island.pw.toml"
 hash = "6161820c416425dda8cb0f35486e3ac7f3031ef71faffaf5d7129fbe68c99963"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-jungle-temples.pw.toml"
+hash = "9cbedef19ab4f1c71f191b074e04bfff966d2d7802385844554da2421612941c"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-mineshafts.pw.toml"
+hash = "20f1eb1cc6ac423d16e2ff153d504a9ff28c457f06cdf6aa28653bc73159f258"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-nether-fortresses.pw.toml"
+hash = "81e63933632ffb6c9e6dbe0b453ec4330d8d863aecff5e315da20e382cb8f67f"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-ocean-monuments.pw.toml"
+hash = "4cad1169b7b66126d1e3a297f931fc8534e23221e1a3a7de58bf2ce721e079a7"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-strongholds.pw.toml"
+hash = "85f6e213624b05a9bfdcf34ef754dda21c46253f3bdd8833adeeb31fe4ca996b"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-witch-huts.pw.toml"
+hash = "cd4f29f8938895d6d667c36084715a384213a92821b3f22f0e68c20afc6339b6"
+metafile = true
+
+[[files]]
+file = "mods/yungs-bridges.pw.toml"
+hash = "ee909745c570da4043618ee95604a8841e61a24d2a543896cd06e66a70a6bc27"
+metafile = true
+
+[[files]]
+file = "mods/yungs-cave-biomes.pw.toml"
+hash = "c9b38d90b6df89ec960466efb700de73e5f96377b5511d5ad4dc040b447d5e01"
+metafile = true
+
+[[files]]
+file = "mods/yungs-extras.pw.toml"
+hash = "66292a46aee6f6fac3a75924da1406c83a99b654a8c61091fd240e8efd780119"
+metafile = true
+
+[[files]]
+file = "mods/yungs-menu-tweaks.pw.toml"
+hash = "e2811c341ea88917ea4f43c96b2e205daf9aeeef901122ff0b04c4088e059c93"
 metafile = true
 
 [[files]]
