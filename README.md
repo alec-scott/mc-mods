@@ -1,6 +1,6 @@
 # Yearn for the Mines
 
-Minecraft 26.3 · Fabric 0.19.5. Your mods update themselves every time you press Play.
+Minecraft 26.1.2 · Fabric 0.19.5. Your mods update themselves every time you press Play.
 
 ## One-time setup (about 5 minutes)
 
@@ -14,9 +14,15 @@ That's it. When the pack changes, the next launch picks it up automatically.
 
 You can add your own client-only extras (minimaps, shaders, etc.) in Prism under **Edit → Mods**. They won't be removed by updates.
 
+## When the Minecraft version changes
+
+Prism doesn't change the Minecraft version for you. If the server moves to a new version (it's **26.1.2** now):
+select the instance → **Edit → Version** → click **Minecraft** → **Change version** → pick **26.1.2** → close, then press Play.
+The mods switch over by themselves on that launch. (Or delete the instance and import the zip again.)
+
 ## If the zip doesn't work: manual setup
 
-1. Prism: **Add Instance → Vanilla**, choose Minecraft **26.3**, then **OK**.
+1. Prism: **Add Instance → Vanilla**, choose Minecraft **26.1.2**, then **OK**.
 2. Select the instance → **Edit → Version → Install Fabric** → choose **0.19.5**.
 3. **Folder** button (top right) → open the `.minecraft` (or `minecraft`) folder and put
    [packwiz-installer-bootstrap.jar](https://github.com/packwiz/packwiz-installer-bootstrap/releases/latest/download/packwiz-installer-bootstrap.jar) in it.

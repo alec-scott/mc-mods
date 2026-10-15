@@ -1,13 +1,13 @@
 name = "Zombie Break & Build"
-filename = "ZombiesBreak&Build-fabric-26.3-1.7.0.jar"
+filename = "ZombiesBreak&Build-fabric-26.1.2-1.7.0.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/z1e0VLjL/versions/9eCq1eqL/ZombiesBreak%26Build-fabric-26.3-1.7.0.jar"
+url = "https://cdn.modrinth.com/data/z1e0VLjL/versions/3rcLE0QA/ZombiesBreak%26Build-fabric-26.1.2-1.7.0.jar"
 hash-format = "sha512"
-hash = "2769a5b1335bb866d6755c5d82683532cd209a9fc1e33ee03864fa5ed59a305e806d87d6743e5b786d2a5c05f880b77e866af8a07e8a12cb0037a04f0c4e4f61"
+hash = "50125c151cc76e0ea0bb101d8467b863f0be9059902dee38ac0d0ddf9ffeb82ff28e408c53e61d0d4220f64ab2d516edfd2e86fdf9e9980e95da4bdb21b6504e"
 
 [update]
 [update.modrinth]
 mod-id = "z1e0VLjL"
-version = "9eCq1eqL"
+version = "3rcLE0QA"

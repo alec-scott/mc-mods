@@ -1,13 +1,13 @@
 name = "SWAY API"
-filename = "sway-2.4.5-fabric+26.3.jar"
+filename = "sway-2.4.5-fabric+26.1.2.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/Gj6Yce3v/versions/J9WbqmZ9/sway-2.4.5-fabric%2B26.3.jar"
+url = "https://cdn.modrinth.com/data/Gj6Yce3v/versions/jtRVAU8I/sway-2.4.5-fabric%2B26.1.2.jar"
 hash-format = "sha512"
-hash = "8b92d3d763b51b8c858be16bf16f63e7c2398d5bf92dbe937660b558003e11b6887c74921f3143b4aa2bb31daa3804e4b00c913f3412b319c1b9a4f4aa4780d3"
+hash = "733d5449cb23e2c43d67ebded16085c33380275e889f5abb42576f6b9ab3746047bfa21d84ed7e08a23fed5b259cde46a3ccbc00803133d71c5ac5f833fd4233"
 
 [update]
 [update.modrinth]
 mod-id = "Gj6Yce3v"
-version = "J9WbqmZ9"
+version = "jtRVAU8I"
