@@ -1,11 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "mods/alexs-mobs-fabric.pw.toml"
-hash = "52e8eb8d77fa56bc06369e206dca393f5f813b86f3feb95b7511f4632f61ddf8"
-metafile = true
-
-[[files]]
 file = "mods/ambientsounds.pw.toml"
 hash = "97280c6f029ca84101dc38eb6bafbb7e615e3e0780bc766e0848b2eb0b577202"
 metafile = true
