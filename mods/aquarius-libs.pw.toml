@@ -1,0 +1,13 @@
+name = "Aquarius Libs"
+filename = "aquarius_libs-1.2.0-fabric-26.2-0.152.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b49d03c322b5d5be9c8f9dccac90127bcade4e59"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8274057
+project-id = 1412710

@@ -1,8 +1,8 @@
 hash-format = "sha256"
 
 [[files]]
-file = "mods/alexs-mobs-continued.pw.toml"
-hash = "720c5c34a590c48daaf94567d176e1ad744ccb2a85908020631b55e7f2d06b09"
+file = "mods/alexs-mobs-fabric.pw.toml"
+hash = "52e8eb8d77fa56bc06369e206dca393f5f813b86f3feb95b7511f4632f61ddf8"
 metafile = true
 
 [[files]]
@@ -11,8 +11,18 @@ hash = "97280c6f029ca84101dc38eb6bafbb7e615e3e0780bc766e0848b2eb0b577202"
 metafile = true
 
 [[files]]
+file = "mods/animal-garden-western-gorilla.pw.toml"
+hash = "85ff2bd6b457fae3ba91b6b05d41c5dc426f146e11ad5e394c9810d055367f76"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "785e74169e884a0535517140796a8448a831abf7f7dfa29cf6326b178c0dcf48"
+metafile = true
+
+[[files]]
+file = "mods/aquarius-libs.pw.toml"
+hash = "deedf9ef1de7747d89cae12e4a0203174c0170da49e3b2d62b2967a6944e050c"
 metafile = true
 
 [[files]]
@@ -46,8 +56,13 @@ hash = "8e4512056e448a6f3d1ac179961eb699c15fbe000284e0aee041b5971b417302"
 metafile = true
 
 [[files]]
+file = "mods/citadel-fabric.pw.toml"
+hash = "892bd8cb45ca6d3173b055df68d497706233117177e1630e879a3ab4336aeac9"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "1b8f4603e81c48badce4a9321dea87bdeb9d3b5a2f0be566139d087afad73a47"
+hash = "7b109a4d89c487576b9af68168b30084211d5f67124e2f5cc5165dbd083d14ea"
 metafile = true
 
 [[files]]
@@ -87,7 +102,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "46c13077e518b312d993a6853c3cd046b724cfc48664481ec0b651ed308aa292"
+hash = "c948304627e6b7ad250567c89655ad341362de53df5b82a76093b5225cfb9696"
 metafile = true
 
 [[files]]
@@ -108,6 +123,11 @@ metafile = true
 [[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "069d81cab53c0141459ad4d70bcf3e10f17652f24cc62d3b4a0fc2cd2b700871"
+metafile = true
+
+[[files]]
+file = "mods/fish-of-thieves.pw.toml"
+hash = "8c5aa41458ec619bc70b3e71cfc8c7a71f718df53b9744a3caf3510af497476d"
 metafile = true
 
 [[files]]
@@ -213,6 +233,11 @@ metafile = true
 [[files]]
 file = "mods/modmenu.pw.toml"
 hash = "5589b35ab770daa5deb3d5ee1b1279c2eafe2334ad17e140b51e68f121123047"
+metafile = true
+
+[[files]]
+file = "mods/owo-lib.pw.toml"
+hash = "b5d30402c7f440d2a332cd85277a6f4c119198e930fa5855f081263f3d353043"
 metafile = true
 
 [[files]]
@@ -323,6 +348,11 @@ metafile = true
 [[files]]
 file = "mods/undead-nights.pw.toml"
 hash = "456cab05d31d4331adad773cb4e4c38d35110207c99a69df86153c2d711dae44"
+metafile = true
+
+[[files]]
+file = "mods/vinurl.pw.toml"
+hash = "988539a331475bf2f65a3a46055a5c0bd0510f28e257cd0d7c40d84c567ee955"
 metafile = true
 
 [[files]]

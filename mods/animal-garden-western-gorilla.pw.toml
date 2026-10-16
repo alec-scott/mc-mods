@@ -1,0 +1,13 @@
+name = "Animal Garden - Western Gorilla"
+filename = "animalgarden_westerngorilla-1.0.1-fabric-26.1.2-0.145.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d716da157b21665025ab565898b1ac914633d153"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7914619
+project-id = 1396258
