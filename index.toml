@@ -336,11 +336,6 @@ hash = "456cab05d31d4331adad773cb4e4c38d35110207c99a69df86153c2d711dae44"
 metafile = true
 
 [[files]]
-file = "mods/vinurl.pw.toml"
-hash = "988539a331475bf2f65a3a46055a5c0bd0510f28e257cd0d7c40d84c567ee955"
-metafile = true
-
-[[files]]
 file = "mods/visuality.pw.toml"
 hash = "70810061d41b8eb952f99ef365ba26d04ae6e08875da2adfe66d9a6b337128f2"
 metafile = true
