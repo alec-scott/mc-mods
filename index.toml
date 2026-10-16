@@ -1,6 +1,11 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/alexs-mobs-continued.pw.toml"
+hash = "720c5c34a590c48daaf94567d176e1ad744ccb2a85908020631b55e7f2d06b09"
+metafile = true
+
+[[files]]
 file = "mods/ambientsounds.pw.toml"
 hash = "97280c6f029ca84101dc38eb6bafbb7e615e3e0780bc766e0848b2eb0b577202"
 metafile = true
@@ -46,6 +51,11 @@ hash = "5b76acfd3274e8b3ac95ba027725303763cc27e60c352ab4f7b58563d0f0f6a7"
 metafile = true
 
 [[files]]
+file = "mods/codxlib.pw.toml"
+hash = "07a45e7162a34cc0ee7ca02b814c4f438c21b563afa6121bacd3c801558f9cd1"
+metafile = true
+
+[[files]]
 file = "mods/collective.pw.toml"
 hash = "52f27d7c1acedaddd53f88038f83148230de4a37728bdd0e361c3d9505da7f2e"
 metafile = true
@@ -86,6 +96,11 @@ hash = "aa33cb41c810c66e39c6fcea071fca1c6f8a6eaf63ecbea473f81a2708c6641a"
 metafile = true
 
 [[files]]
+file = "mods/fallingtree.pw.toml"
+hash = "a03ebce378232022fe114f91b495f89dbee68d80dc8ad8f5ce6359435359df90"
+metafile = true
+
+[[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "069d81cab53c0141459ad4d70bcf3e10f17652f24cc62d3b4a0fc2cd2b700871"
 metafile = true
@@ -108,11 +123,6 @@ metafile = true
 [[files]]
 file = "mods/geckolib.pw.toml"
 hash = "833e17466c66c772e2e25c2728fd0aa6570aac63f605769f6b1f4c55d3564da5"
-metafile = true
-
-[[files]]
-file = "mods/guns_plus_plus.pw.toml"
-hash = "be3259dfcba4b7911f217425b4eca82dcd1e7459bca866cb30bcd1b8a93962e9"
 metafile = true
 
 [[files]]
