@@ -1,6 +1,11 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/alexs-mobs-continued.pw.toml"
+hash = "720c5c34a590c48daaf94567d176e1ad744ccb2a85908020631b55e7f2d06b09"
+metafile = true
+
+[[files]]
 file = "mods/ambientsounds.pw.toml"
 hash = "97280c6f029ca84101dc38eb6bafbb7e615e3e0780bc766e0848b2eb0b577202"
 metafile = true
@@ -97,7 +102,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "c948304627e6b7ad250567c89655ad341362de53df5b82a76093b5225cfb9696"
+hash = "46c13077e518b312d993a6853c3cd046b724cfc48664481ec0b651ed308aa292"
 metafile = true
 
 [[files]]
