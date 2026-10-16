@@ -56,11 +56,6 @@ hash = "8e4512056e448a6f3d1ac179961eb699c15fbe000284e0aee041b5971b417302"
 metafile = true
 
 [[files]]
-file = "mods/citadel-fabric.pw.toml"
-hash = "892bd8cb45ca6d3173b055df68d497706233117177e1630e879a3ab4336aeac9"
-metafile = true
-
-[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "7b109a4d89c487576b9af68168b30084211d5f67124e2f5cc5165dbd083d14ea"
 metafile = true
