@@ -1,0 +1,13 @@
+name = "World Alive: Ambient birds and wildlife"
+filename = "world_alive-1.2.2+26.1.2-fabric.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/YFkuYUFq/versions/OF0ZKZ3d/world_alive-1.2.2%2B26.1.2-fabric.jar"
+hash-format = "sha512"
+hash = "93b404967cfc3116417cd9f3dc9074b5a2761f25d8d1d1d5962362188a44d9d2e07af81ab9c31f32c19d92ecdee28c3330486905421f9675de685d847cee3775"
+
+[update]
+[update.modrinth]
+mod-id = "YFkuYUFq"
+version = "OF0ZKZ3d"

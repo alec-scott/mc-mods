@@ -21,11 +21,6 @@ hash = "270675632e20b3f27d79a4633356fac3b2bf7335aa250a7894f53a4490e61b29"
 metafile = true
 
 [[files]]
-file = "mods/birds-boids-addon.pw.toml"
-hash = "17fa364e08638aed1cc62eecfd6c2f0ef317738e13067fc71df1618d1553d26f"
-metafile = true
-
-[[files]]
 file = "mods/boids.pw.toml"
 hash = "bf641f6bce1d99a7ff7effba3446481e88cd067673f9435aee08eced8c36a34e"
 metafile = true
@@ -338,6 +333,11 @@ metafile = true
 [[files]]
 file = "mods/voxy.pw.toml"
 hash = "a5f5e80be1db5192dbe02b728c02f459758e58423e4fcc33df51300352a3eef7"
+metafile = true
+
+[[files]]
+file = "mods/world-alive.pw.toml"
+hash = "d84919618f23d4947b552be9e4cacaaff33ff3fead3a6f134683f143a786c2ae"
 metafile = true
 
 [[files]]
