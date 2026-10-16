@@ -21,6 +21,16 @@ hash = "270675632e20b3f27d79a4633356fac3b2bf7335aa250a7894f53a4490e61b29"
 metafile = true
 
 [[files]]
+file = "mods/birds-boids-addon.pw.toml"
+hash = "17fa364e08638aed1cc62eecfd6c2f0ef317738e13067fc71df1618d1553d26f"
+metafile = true
+
+[[files]]
+file = "mods/boids.pw.toml"
+hash = "bf641f6bce1d99a7ff7effba3446481e88cd067673f9435aee08eced8c36a34e"
+metafile = true
+
+[[files]]
 file = "mods/c2me-fabric.pw.toml"
 hash = "40af534010e45b8161eee489c5e4e714f46d901aea61101eff69ef11ffe139ca"
 metafile = true
