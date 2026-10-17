@@ -1,0 +1,13 @@
+name = "Old Cannons"
+filename = "oldcannons-1.0.4-FABRIC-MC-26.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/TDm1EbDQ/versions/lAHGLvCU/oldcannons-1.0.4-FABRIC-MC-26.1.jar"
+hash-format = "sha512"
+hash = "b9c102e74e93aafa13db86080eff9be2d353b258c4d4b50c32092560217533ea0cc3314bc296b4610557fcde257b3470184bb05c20897573f6149b66400a2bba"
+
+[update]
+[update.modrinth]
+mod-id = "TDm1EbDQ"
+version = "lAHGLvCU"

@@ -186,6 +186,11 @@ hash = "28e4c2b3d9f3a46112ceca768303623991cec8bbf68b31cd9006a4e96dab4e13"
 metafile = true
 
 [[files]]
+file = "mods/just-enough-guns-neoforge.pw.toml"
+hash = "423326366a15013618844a04edf426e40734019e532f796d20851cc7aa1b92f6"
+metafile = true
+
+[[files]]
 file = "mods/lambdynamiclights.pw.toml"
 hash = "6a34c0b44a9f0a4ebbb04ae8af6cf86c2fce28353935226852d439c14e635f33"
 metafile = true
@@ -238,6 +243,11 @@ metafile = true
 [[files]]
 file = "mods/modmenu.pw.toml"
 hash = "5589b35ab770daa5deb3d5ee1b1279c2eafe2334ad17e140b51e68f121123047"
+metafile = true
+
+[[files]]
+file = "mods/oldcannons.pw.toml"
+hash = "9752936a436f9efd9758848d00e298f132801230fe7277adaf84e8fcd2fe7f81"
 metafile = true
 
 [[files]]

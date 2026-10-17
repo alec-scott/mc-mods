@@ -1,0 +1,13 @@
+name = "Just Enough Guns New(unofficial port)"
+filename = "jegn-1.8.0-backport+fabric26.1.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/dxTydNDF/versions/n07lXoBe/jegn-1.8.0-backport%2Bfabric26.1.2.jar"
+hash-format = "sha512"
+hash = "6299a37f7e8b91681b4c334101c145ab5e500d6c0b90947912b539b1e41376df2b4e4f6e8bf211e450cc14064b39820ef58bd80c96dd9ea29f48e8131f71f098"
+
+[update]
+[update.modrinth]
+mod-id = "dxTydNDF"
+version = "n07lXoBe"
