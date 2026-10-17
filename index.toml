@@ -31,6 +31,11 @@ hash = "270675632e20b3f27d79a4633356fac3b2bf7335aa250a7894f53a4490e61b29"
 metafile = true
 
 [[files]]
+file = "mods/biomes-o-plenty.pw.toml"
+hash = "8655312f227b1e6bb11b6eb5c03d264b48d264b50be90b176a8d4b1f77d2a7eb"
+metafile = true
+
+[[files]]
 file = "mods/boids.pw.toml"
 hash = "bf641f6bce1d99a7ff7effba3446481e88cd067673f9435aee08eced8c36a34e"
 metafile = true
@@ -323,11 +328,6 @@ metafile = true
 [[files]]
 file = "mods/terrablender.pw.toml"
 hash = "b9f14b26a3b9554e2870dd45b2c6d3f24494d90708d7388b1a941bfeabecfd07"
-metafile = true
-
-[[files]]
-file = "mods/terralith.pw.toml"
-hash = "1d444d212ecb78229590e5222f3dd028aa86bdec2ec0eab4ca0a14cf16f35e3e"
 metafile = true
 
 [[files]]
