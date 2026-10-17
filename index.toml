@@ -97,7 +97,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "46c13077e518b312d993a6853c3cd046b724cfc48664481ec0b651ed308aa292"
+hash = "c948304627e6b7ad250567c89655ad341362de53df5b82a76093b5225cfb9696"
 metafile = true
 
 [[files]]
@@ -118,6 +118,11 @@ metafile = true
 [[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "069d81cab53c0141459ad4d70bcf3e10f17652f24cc62d3b4a0fc2cd2b700871"
+metafile = true
+
+[[files]]
+file = "mods/fighter-jets-overhaul.pw.toml"
+hash = "bcc2306020301c5c148aa3c95cb5306e561737b358168971caba416cb3c47805"
 metafile = true
 
 [[files]]
