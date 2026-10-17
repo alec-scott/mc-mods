@@ -57,7 +57,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "7b109a4d89c487576b9af68168b30084211d5f67124e2f5cc5165dbd083d14ea"
+hash = "1b8f4603e81c48badce4a9321dea87bdeb9d3b5a2f0be566139d087afad73a47"
 metafile = true
 
 [[files]]
@@ -118,6 +118,11 @@ metafile = true
 [[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "069d81cab53c0141459ad4d70bcf3e10f17652f24cc62d3b4a0fc2cd2b700871"
+metafile = true
+
+[[files]]
+file = "mods/fish-of-thieves.pw.toml"
+hash = "aaac68586c671e96455ed8a9a0aa8e890c68fb75488f869351037d4ec99381ab"
 metafile = true
 
 [[files]]
