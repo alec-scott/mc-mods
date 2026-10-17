@@ -231,6 +231,11 @@ hash = "99479e380e65c7adb1d9a9e397261d25711c17940df4083330e764be9b1eb50b"
 metafile = true
 
 [[files]]
+file = "mods/mob-spawn-control.pw.toml"
+hash = "2c8087833ed171aaa891ec259c9cca1f5284a64a5b617ef23af5338480dbc4a7"
+metafile = true
+
+[[files]]
 file = "mods/modernfix-mvus.pw.toml"
 hash = "cb4b411882267dfba9ab18f33d3fa69f3f4a545e996411000a3ed6315f3b8452"
 metafile = true
