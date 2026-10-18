@@ -121,11 +121,6 @@ hash = "069d81cab53c0141459ad4d70bcf3e10f17652f24cc62d3b4a0fc2cd2b700871"
 metafile = true
 
 [[files]]
-file = "mods/fighter-jets-overhaul.pw.toml"
-hash = "bcc2306020301c5c148aa3c95cb5306e561737b358168971caba416cb3c47805"
-metafile = true
-
-[[files]]
 file = "mods/fish-of-thieves.pw.toml"
 hash = "aaac68586c671e96455ed8a9a0aa8e890c68fb75488f869351037d4ec99381ab"
 metafile = true
@@ -191,8 +186,8 @@ hash = "28e4c2b3d9f3a46112ceca768303623991cec8bbf68b31cd9006a4e96dab4e13"
 metafile = true
 
 [[files]]
-file = "mods/just-enough-guns-neoforge.pw.toml"
-hash = "423326366a15013618844a04edf426e40734019e532f796d20851cc7aa1b92f6"
+file = "mods/just-enough-guns-zoomify-patch-github.pw.toml"
+hash = "8f2cf4de9fad229a03c868a816e788a066fb30a3925decad4cfdef94e66fb59c"
 metafile = true
 
 [[files]]
@@ -333,6 +328,11 @@ metafile = true
 [[files]]
 file = "mods/streams-reflowing.pw.toml"
 hash = "8d9eb41be1f380d6bf2bb2687918f3aa1d8242144e1329a395f6839b8668def2"
+metafile = true
+
+[[files]]
+file = "mods/styledplayerlist.pw.toml"
+hash = "8d860ec02053d85f19bf18f9d9bcec8a619d11108954a70d8c0b1730e91c7fab"
 metafile = true
 
 [[files]]
