@@ -516,6 +516,11 @@ hash = "213428b7676adfaa1c59fcfe93e6e7f3d0257e236f32a5a245eb0fc966e1b218"
 metafile = true
 
 [[files]]
+file = "resourcepacks/vvi.pw.toml"
+hash = "505bfa31b0681a86c369fbf7fdbfc5bd2841f06895a2711327ff42615d5b909b"
+metafile = true
+
+[[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
 hash = "75d1d2488a0c332a9a58af7e57f980a1b006c02b3a1c580fbd50443088e4eab0"
 metafile = true
