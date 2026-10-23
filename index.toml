@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/streamsreflowing.properties"
-hash = "2c3c527dd9061da8e30e337f5aa2e12fc754cf8b082231a17555f0ac2fee59dd"
+hash = "c07d9bb548486e9d0f0d4e8be9fa0c57b7ec02957c0dffb63776ee5540cb1f90"
 
 [[files]]
 file = "mods/alexs-mobs-continued.pw.toml"
