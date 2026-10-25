@@ -185,11 +185,6 @@ hash = "4a0e1f044fb98e593da01ca7bc61d488cbeefefd270a933e849f8b425df723cc"
 metafile = true
 
 [[files]]
-file = "mods/journeymap.pw.toml"
-hash = "28e4c2b3d9f3a46112ceca768303623991cec8bbf68b31cd9006a4e96dab4e13"
-metafile = true
-
-[[files]]
 file = "mods/just-enough-guns-zoomify-patch-github.pw.toml"
 hash = "8f2cf4de9fad229a03c868a816e788a066fb30a3925decad4cfdef94e66fb59c"
 metafile = true
@@ -317,11 +312,6 @@ metafile = true
 [[files]]
 file = "mods/spark.pw.toml"
 hash = "9b0969e4afbc18124775c008361dc1cfb9a17e49098d93d067b6342a4a54427c"
-metafile = true
-
-[[files]]
-file = "mods/squaremap.pw.toml"
-hash = "52918fea581251b634940d1ee00a58d2a76cb3fadda90930c8e90a6eec43f648"
 metafile = true
 
 [[files]]
