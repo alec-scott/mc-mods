@@ -195,11 +195,6 @@ hash = "6a34c0b44a9f0a4ebbb04ae8af6cf86c2fce28353935226852d439c14e635f33"
 metafile = true
 
 [[files]]
-file = "mods/lazyai.pw.toml"
-hash = "41772fdbb46d5ea301fe805b201a4824b5a51d58b485630d39461d5c41de1c20"
-metafile = true
-
-[[files]]
 file = "mods/libipn.pw.toml"
 hash = "cbd980e76b429c7b273bebef49d348b833779f56d174d328d391effd82218a75"
 metafile = true
