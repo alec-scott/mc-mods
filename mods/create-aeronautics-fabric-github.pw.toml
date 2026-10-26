@@ -1,0 +1,9 @@
+name = "Create Aeronautics (GitHub)"
+filename = "create-aeronautics-4in1-fabric-26.1.2-1.3.0.jar"
+side = "both"
+pin = true
+
+[download]
+url = "https://github.com/alec-scott/create-aeronautics-fabric/releases/download/v1.3.0-mc26.1.2-fabric.2/create-aeronautics-4in1-fabric-26.1.2-1.3.0.jar"
+hash-format = "sha256"
+hash = "e5f564de94239925b82f3f98600e9a59ef763a363ef67e1995a1d9fb71b5770c"

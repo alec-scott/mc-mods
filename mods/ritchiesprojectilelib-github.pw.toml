@@ -1,0 +1,9 @@
+name = "Ritchie's Projectile Library (GitHub)"
+filename = "ritchiesprojectilelib-2.1.2+mc.26.1.2-fabric.jar"
+side = "both"
+pin = true
+
+[download]
+url = "https://github.com/alec-scott/RitchiesProjectileLib/releases/download/v2.1.2-mc26.1.2-fabric.1/ritchiesprojectilelib-2.1.2%2Bmc.26.1.2-fabric.jar"
+hash-format = "sha256"
+hash = "f93472937dfb2d38b0d0cf40fc92f14f790e8c921639b2cee58f35028f4f1948"

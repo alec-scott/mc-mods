@@ -85,6 +85,21 @@ hash = "52f27d7c1acedaddd53f88038f83148230de4a37728bdd0e361c3d9505da7f2e"
 metafile = true
 
 [[files]]
+file = "mods/create-aeronautics-fabric-github.pw.toml"
+hash = "88461a90bcb0aab78e94fedfa169418b77ae5d96b19b62988895dfef3e6bbbc5"
+metafile = true
+
+[[files]]
+file = "mods/create-fly-github.pw.toml"
+hash = "bae8375035a18a683ad6d1f83b8d0e009256f1bf2f0e8d96972185f178e3c058"
+metafile = true
+
+[[files]]
+file = "mods/createbigcannons-github.pw.toml"
+hash = "d0d88a6c4f4f34ee56fba51ce5c59a9066bd3970c62edec8a3e67cdca598656f"
+metafile = true
+
+[[files]]
 file = "mods/creativecore.pw.toml"
 hash = "cab944a3439623906d9f24c12a77aa7209e8f730544179844222e72d9976ea78"
 metafile = true
@@ -272,6 +287,11 @@ metafile = true
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "083c11a502dc9c9bfc7ac5320c698958e529f9ca47d7104f4b5f401c2474ecdd"
+metafile = true
+
+[[files]]
+file = "mods/ritchiesprojectilelib-github.pw.toml"
+hash = "3b0af6d02d04e0f8e83434499c2822c055bcee48b260d6c8c2cd27e2bbe24050"
 metafile = true
 
 [[files]]
