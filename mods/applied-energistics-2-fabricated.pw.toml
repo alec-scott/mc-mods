@@ -1,0 +1,13 @@
+name = "Applied Energistics 2: Fabricated"
+filename = "ae2-fabricated-26.1.13-beta.1+fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2e3ca6b25b3f5c4bf95253081e54416925164fbc"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9246164
+project-id = 1752907

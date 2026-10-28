@@ -25,6 +25,11 @@ hash = "785e74169e884a0535517140796a8448a831abf7f7dfa29cf6326b178c0dcf48"
 metafile = true
 
 [[files]]
+file = "mods/applied-energistics-2-fabricated.pw.toml"
+hash = "cca1cf332ab277fb43db9df6204ec2b1d662368d853c069d31c34aa5a70394ac"
+metafile = true
+
+[[files]]
 file = "mods/aquarius-libs.pw.toml"
 hash = "deedf9ef1de7747d89cae12e4a0203174c0170da49e3b2d62b2967a6944e050c"
 metafile = true
