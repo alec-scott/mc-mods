@@ -1,0 +1,13 @@
+name = "EMF Compat: Carry On"
+filename = "emf_compat_carry_on_fabric_26.1.2_2.1.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/BPD5ZhBo/versions/Zftuozax/emf_compat_carry_on_fabric_26.1.2_2.1.1.jar"
+hash-format = "sha512"
+hash = "03d7639fd88666de97f4cdd41ba3d698ded59546ef0141af357771e1af065f596480fee7c9123bff5b7827d3dee251e8979295f639cafe34fed9262125b95cb3"
+
+[update]
+[update.modrinth]
+mod-id = "BPD5ZhBo"
+version = "Zftuozax"

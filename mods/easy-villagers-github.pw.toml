@@ -1,0 +1,9 @@
+name = "Easy Villagers (GitHub)"
+filename = "easy-villagers-fabric-1.1.42+26.1.2.jar"
+side = "both"
+pin = true
+
+[download]
+url = "https://github.com/alec-scott/easy-villagers/releases/download/fabric-1.1.42%2B26.1.2/easy-villagers-fabric-1.1.42%2B26.1.2.jar"
+hash-format = "sha256"
+hash = "bf149a00bdffebda551983169625abdd9dd0b46b062708ccfd660c6f093415b0"

@@ -35,6 +35,11 @@ hash = "deedf9ef1de7747d89cae12e4a0203174c0170da49e3b2d62b2967a6944e050c"
 metafile = true
 
 [[files]]
+file = "mods/better-combat.pw.toml"
+hash = "8faab99e31df5052ea3a765479a12d1f34cd450ef69ba5fc4390590e36a645f1"
+metafile = true
+
+[[files]]
 file = "mods/betterf3.pw.toml"
 hash = "270675632e20b3f27d79a4633356fac3b2bf7335aa250a7894f53a4490e61b29"
 metafile = true
@@ -57,6 +62,11 @@ metafile = true
 [[files]]
 file = "mods/carpet.pw.toml"
 hash = "64eef7c7de24e53d0d032e1ee1c20ef59d23a4087098ecc00d62e82c953c1e55"
+metafile = true
+
+[[files]]
+file = "mods/carry-on.pw.toml"
+hash = "3e4b5e703a53e3073595a737ae5115ac58e302d2186a9df93c6243309d898594"
 metafile = true
 
 [[files]]
@@ -95,8 +105,18 @@ hash = "88461a90bcb0aab78e94fedfa169418b77ae5d96b19b62988895dfef3e6bbbc5"
 metafile = true
 
 [[files]]
+file = "mods/create-emf-compat-skyhook.pw.toml"
+hash = "0839ab1a969b84088afb3580fc9f2f4803b97b0220ce172d09f2c932c2682137"
+metafile = true
+
+[[files]]
 file = "mods/create-fly-github.pw.toml"
 hash = "bae8375035a18a683ad6d1f83b8d0e009256f1bf2f0e8d96972185f178e3c058"
+metafile = true
+
+[[files]]
+file = "mods/create-fly.pw.toml"
+hash = "2c53f7bdb9befb8c990f47a92c32c42a12ca36740c0fd960cbc6b4a57527e11d"
 metafile = true
 
 [[files]]
@@ -107,6 +127,26 @@ metafile = true
 [[files]]
 file = "mods/creativecore.pw.toml"
 hash = "cab944a3439623906d9f24c12a77aa7209e8f730544179844222e72d9976ea78"
+metafile = true
+
+[[files]]
+file = "mods/easy-villagers-github.pw.toml"
+hash = "3d686af5efb89c0483e2d42bbd4b1a857a2d95cc4a12998fbc2a33029f20b9b9"
+metafile = true
+
+[[files]]
+file = "mods/emf-compat-better-combat.pw.toml"
+hash = "406ebc7bbc09e354a567cfe6fb4512b487cedf1a435354e24012dbf879499d28"
+metafile = true
+
+[[files]]
+file = "mods/emf-compat-carry-on.pw.toml"
+hash = "1ce40f49c14a4919be59721fc38831ab4bbb292a040308fe99a97dfc37e93263"
+metafile = true
+
+[[files]]
+file = "mods/emf-compat-core.pw.toml"
+hash = "9007fe251b1de4971fb80ff753cac4ecd3581e11263d55a2cda249b9b4dffba9"
 metafile = true
 
 [[files]]
@@ -265,6 +305,16 @@ hash = "5589b35ab770daa5deb3d5ee1b1279c2eafe2334ad17e140b51e68f121123047"
 metafile = true
 
 [[files]]
+file = "mods/not-enough-animations-emf-compat.pw.toml"
+hash = "dbee10bed3e8614a79b7b0d6038956f9d181839e726db2081bfdccb7f3d38caa"
+metafile = true
+
+[[files]]
+file = "mods/not-enough-animations.pw.toml"
+hash = "a5f46416531a8dad415baa2e492ce932ec30db86c328d6f30b450f07ea41e50f"
+metafile = true
+
+[[files]]
 file = "mods/oldcannons.pw.toml"
 hash = "9752936a436f9efd9758848d00e298f132801230fe7277adaf84e8fcd2fe7f81"
 metafile = true
@@ -282,6 +332,11 @@ metafile = true
 [[files]]
 file = "mods/placeholder-api.pw.toml"
 hash = "d20369e5848ca31ecbb49bae22e953439173bd4617ca239b23335366b2a6a0e9"
+metafile = true
+
+[[files]]
+file = "mods/player-animation-library.pw.toml"
+hash = "61b6ede716e04723e1cc9805a6cafe04d64d19f34b7fceacc967195b7058ec10"
 metafile = true
 
 [[files]]

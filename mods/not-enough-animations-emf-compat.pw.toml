@@ -1,0 +1,13 @@
+name = "EMF Compat: Not Enough Animations"
+filename = "emf_compat_not_enough_animations_fabric_26.1.2_1.2.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/IGCrWfL7/versions/pgIoXdH0/emf_compat_not_enough_animations_fabric_26.1.2_1.2.1.jar"
+hash-format = "sha512"
+hash = "f9558ef0dcb00dcd01282f15615117c64c1ff644030df9ddc157a12f0794d5fe5683a166897f5399937f4ca4cf1d57475898ecf13759b672846f1ed9ef54327d"
+
+[update]
+[update.modrinth]
+mod-id = "IGCrWfL7"
+version = "pgIoXdH0"
