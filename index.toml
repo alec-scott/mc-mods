@@ -130,11 +130,6 @@ hash = "3d686af5efb89c0483e2d42bbd4b1a857a2d95cc4a12998fbc2a33029f20b9b9"
 metafile = true
 
 [[files]]
-file = "mods/emf-compat-better-combat.pw.toml"
-hash = "406ebc7bbc09e354a567cfe6fb4512b487cedf1a435354e24012dbf879499d28"
-metafile = true
-
-[[files]]
 file = "mods/emf-compat-carry-on.pw.toml"
 hash = "1ce40f49c14a4919be59721fc38831ab4bbb292a040308fe99a97dfc37e93263"
 metafile = true
