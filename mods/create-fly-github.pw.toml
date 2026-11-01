@@ -1,7 +1,6 @@
 name = "Create Fly (GitHub)"
 filename = "create-fly-26.1.2-6.0.9-4.jar"
 side = "both"
-pin = true
 
 [download]
 url = "https://github.com/alec-scott/Create-Fly/releases/download/v6.0.9-4-fixes.1/create-fly-26.1.2-6.0.9-4.jar"

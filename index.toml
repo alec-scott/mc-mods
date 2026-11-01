@@ -121,7 +121,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-fly-github.pw.toml"
-hash = "bae8375035a18a683ad6d1f83b8d0e009256f1bf2f0e8d96972185f178e3c058"
+hash = "c1ea80f31f5d7da6f38654051ac23745ff599506364c6c5a9527861badf66ce7"
 metafile = true
 
 [[files]]
