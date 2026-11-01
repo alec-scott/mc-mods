@@ -3,6 +3,6 @@ filename = "Steam_Rails-1.7.3+fabric-mc26.1.2.jar"
 side = "both"
 
 [download]
-url = "https://github.com/alec-scott/Create-Steam-n-Rails/releases/download/v1.7.3-mc26.1.2-fabric.2/Steam_Rails-1.7.3%2Bfabric-mc26.1.2.jar"
+url = "https://github.com/alec-scott/Create-Steam-n-Rails/releases/download/v1.7.3-mc26.1.2-fabric.3/Steam_Rails-1.7.3%2Bfabric-mc26.1.2.jar"
 hash-format = "sha256"
-hash = "cf4066831ca793b93a49dee7231d427bd20b949e9b28c9062fac2458a54a3747"
+hash = "9101b20ba643e6e102af19818d1ae5cca40ceb4fd414ed447c8b385ba31addfe"
