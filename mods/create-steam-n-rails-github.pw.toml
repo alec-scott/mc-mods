@@ -1,7 +1,6 @@
 name = "Create: Steam 'n' Rails (GitHub)"
 filename = "Steam_Rails-1.7.3+fabric-mc26.1.2.jar"
 side = "both"
-pin = true
 
 [download]
 url = "https://github.com/alec-scott/Create-Steam-n-Rails/releases/download/v1.7.3-mc26.1.2-fabric.2/Steam_Rails-1.7.3%2Bfabric-mc26.1.2.jar"

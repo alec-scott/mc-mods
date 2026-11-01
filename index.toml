@@ -125,13 +125,8 @@ hash = "c1ea80f31f5d7da6f38654051ac23745ff599506364c6c5a9527861badf66ce7"
 metafile = true
 
 [[files]]
-file = "mods/create-fly.pw.toml"
-hash = "2c53f7bdb9befb8c990f47a92c32c42a12ca36740c0fd960cbc6b4a57527e11d"
-metafile = true
-
-[[files]]
 file = "mods/create-steam-n-rails-github.pw.toml"
-hash = "bb88fad7428ee64e7bc3efd6f63098117713495a49773a12c53d4c61c5d6a745"
+hash = "528f97c01ab115b6c25348d115d912f02dc0536f3a6b58dd17f8e96b927e6d53"
 metafile = true
 
 [[files]]
