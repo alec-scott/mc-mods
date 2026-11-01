@@ -1,0 +1,9 @@
+name = "Design n' Decor (GitHub)"
+filename = "Design-n-Decor-2.2b+fabric-mc26.1.2.jar"
+side = "both"
+pin = true
+
+[download]
+url = "https://github.com/alec-scott/Create-Design-n-Decor/releases/download/v2.2b-mc26.1.2-fabric.1/Design-n-Decor-2.2b%2Bfabric-mc26.1.2.jar"
+hash-format = "sha256"
+hash = "4eb9d66f5ea8fbd921ac7cdef7f6a06e8b9a0daec4ae82453c9dc12c722187a8"

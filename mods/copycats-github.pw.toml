@@ -1,0 +1,9 @@
+name = "Create: Copycats+ (GitHub)"
+filename = "copycats-3.0.9+fabric-mc26.1.2.jar"
+side = "both"
+pin = true
+
+[download]
+url = "https://github.com/alec-scott/copycats/releases/download/v3.0.9-mc26.1.2-fabric.1/copycats-3.0.9%2Bfabric-mc26.1.2.jar"
+hash-format = "sha256"
+hash = "6b7da7acf7424318bb384b9f3d430dcf944b7afb545baf5236e964b3d22da1ec"
