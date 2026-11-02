@@ -140,6 +140,11 @@ hash = "cab944a3439623906d9f24c12a77aa7209e8f730544179844222e72d9976ea78"
 metafile = true
 
 [[files]]
+file = "mods/cupboard.pw.toml"
+hash = "fbd44e779044e7b7738690b59e41abc014e94b415db360cbe41a1f916d0c4a0e"
+metafile = true
+
+[[files]]
 file = "mods/easy-villagers-github.pw.toml"
 hash = "3d686af5efb89c0483e2d42bbd4b1a857a2d95cc4a12998fbc2a33029f20b9b9"
 metafile = true
@@ -287,6 +292,11 @@ metafile = true
 [[files]]
 file = "mods/lithostitched.pw.toml"
 hash = "2f88085cb0e1bcfe386e0df7da15d1caae3e697aba8491aa18163e807641b709"
+metafile = true
+
+[[files]]
+file = "mods/login-protection.pw.toml"
+hash = "d0bfa39a59ab095265d77366e5e4d9efa436d79c00c7410e5032c2e94730eec0"
 metafile = true
 
 [[files]]
