@@ -225,6 +225,11 @@ hash = "53617f29fac13f3ef8cb25a6c6aeba6d080c28a306dccb71fe1f4da9d4a1c345"
 metafile = true
 
 [[files]]
+file = "mods/im-fast.pw.toml"
+hash = "c95cc16ec78b0d48cf8cb55b4cec851ba0af5b548331aa01dfe5ce3a02d0936f"
+metafile = true
+
+[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "59d8a7808f69deae5bc1c17ed2db6c28cb231398681f6f7902ae7e92da229e1a"
 metafile = true
@@ -442,11 +447,6 @@ metafile = true
 [[files]]
 file = "mods/terralith.pw.toml"
 hash = "1d444d212ecb78229590e5222f3dd028aa86bdec2ec0eab4ca0a14cf16f35e3e"
-metafile = true
-
-[[files]]
-file = "mods/too-fast.pw.toml"
-hash = "4fd549aa6294c014a3ac001e357186b3386ccd914edb873e86859a698974e7e0"
 metafile = true
 
 [[files]]
