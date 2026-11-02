@@ -101,7 +101,7 @@ metafile = true
 
 [[files]]
 file = "mods/copycats-github.pw.toml"
-hash = "09d30518cd2a1686933bfcd4d30e904220cec491a65b9f8a74aaadcc083f9520"
+hash = "486e69f5702e577212dd512ec92426937b15c3a2adbd6a4df1bab2232b612e2a"
 metafile = true
 
 [[files]]
@@ -442,6 +442,11 @@ metafile = true
 [[files]]
 file = "mods/terralith.pw.toml"
 hash = "1d444d212ecb78229590e5222f3dd028aa86bdec2ec0eab4ca0a14cf16f35e3e"
+metafile = true
+
+[[files]]
+file = "mods/too-fast.pw.toml"
+hash = "4fd549aa6294c014a3ac001e357186b3386ccd914edb873e86859a698974e7e0"
 metafile = true
 
 [[files]]
