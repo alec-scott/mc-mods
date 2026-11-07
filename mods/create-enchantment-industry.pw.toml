@@ -1,0 +1,13 @@
+name = "Create: Enchantment Industry"
+filename = "create-enchantment-industry-fly-26.1.2-2.5.2-c.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/JWGBpFUP/versions/na3558i9/create-enchantment-industry-fly-26.1.2-2.5.2-c.jar"
+hash-format = "sha512"
+hash = "3f475a44bb99071490c983c7d290e81b097746907f89bc54d63011a994dac07d65b75ccd474abd2de95eed8075dbfb52656d7c4f47b22178dde1888af561fc7b"
+
+[update]
+[update.modrinth]
+mod-id = "JWGBpFUP"
+version = "na3558i9"

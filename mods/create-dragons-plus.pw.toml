@@ -1,0 +1,13 @@
+name = "Create: Dragons Plus"
+filename = "create-dragons-plus-fly-26.1.2-1.11.8.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/dzb1a5WV/versions/i8h6RHHY/create-dragons-plus-fly-26.1.2-1.11.8.jar"
+hash-format = "sha512"
+hash = "1de400be053fbfe348ab760d75813c44176b7a93f6b450fff0d916567ef4757068a631dbd207246426c29b080e742f25d1737073f1bc3bdf4c3354a5992f60c4"
+
+[update]
+[update.modrinth]
+mod-id = "dzb1a5WV"
+version = "i8h6RHHY"

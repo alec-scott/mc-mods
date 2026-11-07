@@ -1,0 +1,8 @@
+name = "Create Diesel Generators (GitHub)"
+filename = "createdieselgenerators-1.3.15+fabric-mc26.1.2.jar"
+side = "both"
+
+[download]
+url = "https://github.com/alec-scott/Create-Diesel-Generators/releases/download/v1.3.15-mc26.1.2-fabric.3/createdieselgenerators-1.3.15%2Bfabric-mc26.1.2.jar"
+hash-format = "sha256"
+hash = "a14b3c34d4cef1140982b1edf4d015795af885a694b35943eaa670e673267407"

@@ -70,6 +70,11 @@ hash = "110f58e9dc8b495d0e78b9eee44ee2cc30868d0ad2d5564496c02cf55766d81c"
 metafile = true
 
 [[files]]
+file = "mods/cc-tweaked.pw.toml"
+hash = "a5dfc9ae97a6ca4e22857bd70ac272c5381ecef1e9a60ee439fb5bc940b24f05"
+metafile = true
+
+[[files]]
 file = "mods/chunk-loaders.pw.toml"
 hash = "b437670a67b1450c19b07f1bd977ee321bb3ab73be5c80a9eab7b43da02d66b3"
 metafile = true
@@ -101,12 +106,12 @@ metafile = true
 
 [[files]]
 file = "mods/copycats-github.pw.toml"
-hash = "486e69f5702e577212dd512ec92426937b15c3a2adbd6a4df1bab2232b612e2a"
+hash = "dc78b4f1951c308d5f28c24d0e98425e307a7f4381c4eb3d88cd1c85c8df02ad"
 metafile = true
 
 [[files]]
 file = "mods/create-aeronautics-fabric-github.pw.toml"
-hash = "88461a90bcb0aab78e94fedfa169418b77ae5d96b19b62988895dfef3e6bbbc5"
+hash = "bab22dee487e123812e0e94b7ddcc5325d2eff052b397e5e0d8dac70ef50d0a6"
 metafile = true
 
 [[files]]
@@ -115,8 +120,23 @@ hash = "c1ccaa61631e502c7e4eb7be66a397024eae6487b5ae5e6d03eb2fb626ebdd79"
 metafile = true
 
 [[files]]
+file = "mods/create-diesel-generators-github.pw.toml"
+hash = "a763b32d0d8226212e0c5752ecbc4cdc42e53fa4ed7219812b776e0ca2c06c69"
+metafile = true
+
+[[files]]
+file = "mods/create-dragons-plus.pw.toml"
+hash = "40f4bc5506a72fe1e18ad6ebf55f08d6580eac02de937dfb4abb84a4648a91d8"
+metafile = true
+
+[[files]]
 file = "mods/create-emf-compat-skyhook.pw.toml"
 hash = "0839ab1a969b84088afb3580fc9f2f4803b97b0220ce172d09f2c932c2682137"
+metafile = true
+
+[[files]]
+file = "mods/create-enchantment-industry.pw.toml"
+hash = "bb1541bfb82c26bdbf671edc677f5f758434bfa902b5834ef340cbf9ef4c0247"
 metafile = true
 
 [[files]]
@@ -125,13 +145,28 @@ hash = "c1ea80f31f5d7da6f38654051ac23745ff599506364c6c5a9527861badf66ce7"
 metafile = true
 
 [[files]]
+file = "mods/create-fly.pw.toml"
+hash = "2c53f7bdb9befb8c990f47a92c32c42a12ca36740c0fd960cbc6b4a57527e11d"
+metafile = true
+
+[[files]]
+file = "mods/create-new-age-github.pw.toml"
+hash = "0f71490707802775b900e67b151c1d8f5af89edea0064929a7e381d056264f0d"
+metafile = true
+
+[[files]]
 file = "mods/create-steam-n-rails-github.pw.toml"
-hash = "77838e38b6e49d9bcd1857c47b6c2f8856060c8ecfe2e72e108a703d08db8e4b"
+hash = "8379d2afda3825ff07ebd92c7c670bef58fa8e827966ba08bf4ee9700c66c9ce"
+metafile = true
+
+[[files]]
+file = "mods/createaddition-github.pw.toml"
+hash = "ad6987bd4f1b30f22726e183e7b7bdf63983a6c48e00a5bfef3a46101a9bdf19"
 metafile = true
 
 [[files]]
 file = "mods/createbigcannons-github.pw.toml"
-hash = "d0d88a6c4f4f34ee56fba51ce5c59a9066bd3970c62edec8a3e67cdca598656f"
+hash = "81b370ae7afc7f9a56c428d94fe92e8f9b609b8dc509e9dde4ce7319a1529bba"
 metafile = true
 
 [[files]]

@@ -1,0 +1,8 @@
+name = "Create: New Age (GitHub)"
+filename = "create-new-age-1.2.1+fabric-mc26.1.2.jar"
+side = "both"
+
+[download]
+url = "https://github.com/alec-scott/create-new-age/releases/download/v1.2.1-mc26.1.2-fabric.2/create-new-age-1.2.1%2Bfabric-mc26.1.2.jar"
+hash-format = "sha256"
+hash = "d8b2fe20afaefbfdff58a7d5a6731e12b3ed0110641fc6047be4a4679ebd736a"
