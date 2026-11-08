@@ -301,7 +301,7 @@ metafile = true
 
 [[files]]
 file = "mods/just-enough-guns-zoomify-patch-github.pw.toml"
-hash = "f3281ec1763ae971877c2faa53623ca1da237c13566cf2e4116de363e61f16a7"
+hash = "3cc9acba39dde3161ce6fe632b2486700f6099755d69e809f140b2cfb186c32c"
 metafile = true
 
 [[files]]
@@ -502,11 +502,6 @@ metafile = true
 [[files]]
 file = "mods/undead-nights.pw.toml"
 hash = "456cab05d31d4331adad773cb4e4c38d35110207c99a69df86153c2d711dae44"
-metafile = true
-
-[[files]]
-file = "mods/vics-point-blank.pw.toml"
-hash = "c6cb7478c0a9c80583065b1cc255a0c092775de1f1995e2e8bd7d0cd22efdaf8"
 metafile = true
 
 [[files]]
