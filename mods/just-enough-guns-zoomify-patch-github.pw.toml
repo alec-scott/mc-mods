@@ -1,8 +1,8 @@
 name = "jegn (GitHub)"
-filename = "jegn-1.7.2+mc26.1.2.yftm.12.jar"
+filename = "jegn-1.7.2+mc26.1.2.yftm.13.jar"
 side = "both"
 
 [download]
-url = "https://github.com/alec-scott/just-enough-guns-zoomify-patch/releases/download/v1.7.2-yftm.12/jegn-1.7.2%2Bmc26.1.2.yftm.12.jar"
+url = "https://github.com/alec-scott/just-enough-guns-zoomify-patch/releases/download/v1.7.2-yftm.13/jegn-1.7.2%2Bmc26.1.2.yftm.13.jar"
 hash-format = "sha256"
-hash = "48bbc9d36d4d956a50cc5658f392b62f4708b8374c46cfb6808737205f003937"
+hash = "0e23a6788dcc93b2424f016a3af4d4db605d71de032f6ea391727b27e1088f34"
