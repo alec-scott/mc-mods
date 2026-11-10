@@ -210,6 +210,11 @@ hash = "455286c56edfbce43a74a6faaaa13609bac43c8da0210fca089c8fdc502fa0dd"
 metafile = true
 
 [[files]]
+file = "mods/exotic-birds-fabric-github.pw.toml"
+hash = "8ca5a162574ef549554110d8e9683d0e72b72bd21a655c3e4b9cd486956a17e8"
+metafile = true
+
+[[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "46c13077e518b312d993a6853c3cd046b724cfc48664481ec0b651ed308aa292"
 metafile = true
@@ -301,7 +306,7 @@ metafile = true
 
 [[files]]
 file = "mods/just-enough-guns-zoomify-patch-github.pw.toml"
-hash = "733baf7ae319dc1eefb78b8fb063d1f7bd4cac823cbd8127585f663d36e2434b"
+hash = "f3fb448413c5f04f38fa3ce05064b1fc1d86ba4fe63fc5d40000cd816f99878a"
 metafile = true
 
 [[files]]
