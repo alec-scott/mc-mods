@@ -1,0 +1,13 @@
+name = "XaeroNav"
+filename = "xaeronav-1.0.0-fabric-26.1.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/cCo2cAHW/versions/FnZEqqvn/xaeronav-1.0.0-fabric-26.1.2.jar"
+hash-format = "sha512"
+hash = "7f8407aee96b36ac8d4ef88587ee541736b60b211cf680dde8133929d34fc87fac50a2775c9b4439c1e74006f76c83f31d2b64648c1d29dfbb15d466d327970d"
+
+[update]
+[update.modrinth]
+mod-id = "cCo2cAHW"
+version = "FnZEqqvn"

@@ -535,6 +535,11 @@ hash = "d84919618f23d4947b552be9e4cacaaff33ff3fead3a6f134683f143a786c2ae"
 metafile = true
 
 [[files]]
+file = "mods/xaeronav.pw.toml"
+hash = "939b8d3096368637a64c954afe34aa61dfddf1a37b5808051d5d879fbaf167c9"
+metafile = true
+
+[[files]]
 file = "mods/xaeros-minimap.pw.toml"
 hash = "7db6314de05ed9a0106c21b56348b2359014b348dcc6bea052107ff49cf16002"
 metafile = true
