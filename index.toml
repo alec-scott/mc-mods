@@ -306,7 +306,7 @@ metafile = true
 
 [[files]]
 file = "mods/just-enough-guns-zoomify-patch-github.pw.toml"
-hash = "f3fb448413c5f04f38fa3ce05064b1fc1d86ba4fe63fc5d40000cd816f99878a"
+hash = "973444dd95446c55afc19454c243fb0a06eaea27d6530121910d091854730653"
 metafile = true
 
 [[files]]
@@ -532,11 +532,6 @@ metafile = true
 [[files]]
 file = "mods/world-alive.pw.toml"
 hash = "d84919618f23d4947b552be9e4cacaaff33ff3fead3a6f134683f143a786c2ae"
-metafile = true
-
-[[files]]
-file = "mods/xaeronav.pw.toml"
-hash = "939b8d3096368637a64c954afe34aa61dfddf1a37b5808051d5d879fbaf167c9"
 metafile = true
 
 [[files]]
