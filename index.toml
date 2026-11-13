@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/streamsreflowing.properties"
-hash = "8700c3195c4c48f40f378806a691eb2d88aebb99590fcca55b4d11cdcdecb201"
+hash = "e048e57c1b95f0953fc8c8e54133fe16384d30424bb1e62feb78bc502a8436f5"
 
 [[files]]
 file = "mods/alexs-mobs-continued.pw.toml"
@@ -262,6 +262,11 @@ metafile = true
 [[files]]
 file = "mods/geckolib.pw.toml"
 hash = "833e17466c66c772e2e25c2728fd0aa6570aac63f605769f6b1f4c55d3564da5"
+metafile = true
+
+[[files]]
+file = "mods/get-it-together-drops.pw.toml"
+hash = "b2c7e56b75bfe5122d0c451eabf3b692b54f284094ca01d3daa9c5d83236dd8c"
 metafile = true
 
 [[files]]
