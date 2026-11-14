@@ -311,7 +311,7 @@ metafile = true
 
 [[files]]
 file = "mods/just-enough-guns-zoomify-patch-github.pw.toml"
-hash = "3011a0f57bdbe63558fec2d956e6a79a80c4d121b6c79b6cf5123a84eb8d2a9f"
+hash = "f91016e90d2579cfe9d2f82862e2ab44a3b697029a3e6425bdf0f0643cb2b9ee"
 metafile = true
 
 [[files]]
