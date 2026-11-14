@@ -265,11 +265,6 @@ hash = "833e17466c66c772e2e25c2728fd0aa6570aac63f605769f6b1f4c55d3564da5"
 metafile = true
 
 [[files]]
-file = "mods/get-it-together-drops.pw.toml"
-hash = "b2c7e56b75bfe5122d0c451eabf3b692b54f284094ca01d3daa9c5d83236dd8c"
-metafile = true
-
-[[files]]
 file = "mods/glitchcore.pw.toml"
 hash = "53617f29fac13f3ef8cb25a6c6aeba6d080c28a306dccb71fe1f4da9d4a1c345"
 metafile = true
@@ -311,7 +306,7 @@ metafile = true
 
 [[files]]
 file = "mods/just-enough-guns-zoomify-patch-github.pw.toml"
-hash = "f91016e90d2579cfe9d2f82862e2ab44a3b697029a3e6425bdf0f0643cb2b9ee"
+hash = "4e86ff00082d3fa9f24eca8fa4657a4b34e9e43c182e5d533e66ca022d29fb0f"
 metafile = true
 
 [[files]]
