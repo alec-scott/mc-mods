@@ -3,6 +3,6 @@ filename = "create-new-age-1.2.1+fabric-mc26.1.2.jar"
 side = "both"
 
 [download]
-url = "https://github.com/alec-scott/create-new-age/releases/download/v1.2.1-mc26.1.2-fabric.2/create-new-age-1.2.1%2Bfabric-mc26.1.2.jar"
+url = "https://github.com/alec-scott/create-new-age/releases/download/v1.2.1-mc26.1.2-fabric.3/create-new-age-1.2.1%2Bfabric-mc26.1.2.jar"
 hash-format = "sha256"
-hash = "d8b2fe20afaefbfdff58a7d5a6731e12b3ed0110641fc6047be4a4679ebd736a"
+hash = "803deadc406e9c2d8ee19bca634437755747303e6081a4b85119d208307d24ce"
