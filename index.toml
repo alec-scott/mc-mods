@@ -5,6 +5,11 @@ file = "config/streamsreflowing.properties"
 hash = "e048e57c1b95f0953fc8c8e54133fe16384d30424bb1e62feb78bc502a8436f5"
 
 [[files]]
+file = "mods/ae2wirelessterminallibrary-github.pw.toml"
+hash = "6f3c73805a9cc010cd30b4f2c391c0a0b7ee20171558b1f3e745be5e6f756b62"
+metafile = true
+
+[[files]]
 file = "mods/alexs-mobs-continued.pw.toml"
 hash = "4553d7190a6cec2165406ab4bf0bc45c9857c1d7d13dc87ddaf0309b007d4cb1"
 metafile = true
