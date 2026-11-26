@@ -685,6 +685,6 @@ hash = "1a3d3663c44dc21e227c39c42ea9b5e3c4f3b2e3b5272ed55b45da9e247a46d7"
 metafile = true
 
 [[files]]
-file = "shaderpacks/photon-shader.pw.toml"
-hash = "e9112a2da03f65451c8c949331d71b92546bbd75ff78eac554d27f6c41e1ba29"
+file = "shaderpacks/photon-github.pw.toml"
+hash = "6d8d1ce99c14854f40bf34f8150c0401cdc1854e0feac0f4d85d5dd9869f37c5"
 metafile = true
