@@ -3,6 +3,6 @@ filename = "photon-yftm.zip"
 side = "client"
 
 [download]
-url = "https://github.com/Marco-Cigna/photon/releases/download/v1.3b-yftm.1/photon-yftm.zip"
+url = "https://github.com/Marco-Cigna/photon/releases/download/v1.3b-yftm.2/photon-yftm.zip"
 hash-format = "sha256"
-hash = "fac9bfe4c728eda82ddcd84171095b94fb0033eea74de3ed73b86935ce42b01d"
+hash = "54aa08fcc3046e26026badae0ecbdf0bf50d14bfbc477399ba357db9d958684c"

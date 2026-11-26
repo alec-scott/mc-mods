@@ -327,7 +327,7 @@ metafile = true
 
 [[files]]
 file = "mods/just-enough-guns-zoomify-patch-github.pw.toml"
-hash = "2889d3bffc52b8e57a751918e773f085b212670a966934f080849432bda93c42"
+hash = "9b91031cb81390f525ed449a3c56b3a80be32ee13bcf377f4991470f7c23f5ca"
 metafile = true
 
 [[files]]
@@ -702,5 +702,5 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/photon-github.pw.toml"
-hash = "6d8d1ce99c14854f40bf34f8150c0401cdc1854e0feac0f4d85d5dd9869f37c5"
+hash = "27b59a2594b7dc408b15f39210f84bffb1dd2bab86884571b3a27c5d6d55936a"
 metafile = true
