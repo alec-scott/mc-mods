@@ -1,6 +1,18 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/entity_model_features.json"
+hash = "e5b2c65819f2fbea841ec015952bd07d11078c959350accea59288764633ffbb"
+
+[[files]]
+file = "config/entity_texture_features.json"
+hash = "eba931769b49d076cc1c05305f12e43dc579f7a5ddcb6a22412f5c0c347a938e"
+
+[[files]]
+file = "config/streamsreflowing-client.properties"
+hash = "f75d90541fe7ec94cb5d20ad0a4d14c07c19f041354b528cba6bbbe6ac967493"
+
+[[files]]
 file = "config/streamsreflowing.properties"
 hash = "e048e57c1b95f0953fc8c8e54133fe16384d30424bb1e62feb78bc502a8436f5"
 
