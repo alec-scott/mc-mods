@@ -18,7 +18,7 @@ hash = "e048e57c1b95f0953fc8c8e54133fe16384d30424bb1e62feb78bc502a8436f5"
 
 [[files]]
 file = "config/worldalive.json"
-hash = "3d53cdd563dfec055ecb0ebc09f06db712e2ab454398ab7a9afba339161f720e"
+hash = "d4cef35dcef5bf472218a45fd323b15c7032565fc8cba97d25ed89220ce78b3e"
 
 [[files]]
 file = "mods/ae2wirelessterminallibrary-github.pw.toml"
@@ -232,7 +232,7 @@ metafile = true
 
 [[files]]
 file = "mods/exotic-birds-fabric-github.pw.toml"
-hash = "8ca5a162574ef549554110d8e9683d0e72b72bd21a655c3e4b9cd486956a17e8"
+hash = "c257845ffe84cfcfe8f8a7cf5bb71d3ffb554973ae694f4ba6eb4659a4e7c6c0"
 metafile = true
 
 [[files]]
@@ -327,7 +327,7 @@ metafile = true
 
 [[files]]
 file = "mods/just-enough-guns-zoomify-patch-github.pw.toml"
-hash = "cd19a641b4d7f8cee7467ed80becdca1eff23a76acc4be89c478dcb7d6e2ddca"
+hash = "3c62afb7422b0fcca69c20ab365d9ec6c33e96fd1b962a45931b76b03bf672e4"
 metafile = true
 
 [[files]]

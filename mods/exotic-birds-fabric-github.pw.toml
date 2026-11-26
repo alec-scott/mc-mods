@@ -3,6 +3,6 @@ filename = "exoticbirds-0.1.0+mc26.1.2.jar"
 side = "both"
 
 [download]
-url = "https://github.com/Marco-Cigna/exotic-birds-fabric/releases/download/v0.1.0-mc26.1.2-fabric.1/exoticbirds-0.1.0%2Bmc26.1.2.jar"
+url = "https://github.com/Marco-Cigna/exotic-birds-fabric/releases/download/v0.1.0-mc26.1.2-fabric.2/exoticbirds-0.1.0%2Bmc26.1.2.jar"
 hash-format = "sha256"
-hash = "4487227a3c672ff3aaba5377eaaa5aee27cc79171e4b62dc880237e8bfacab59"
+hash = "355cf22d231b9674edb6b4a7db97064c2b4b8d37b75d402c111ab4a795258f11"

@@ -20,5 +20,5 @@
   "seasonalBirds": false,
   "migrationWarmDirection": "SOUTH",
   "announceMigrations": true,
-  "minBirdSpawnDistance": 10
+  "minBirdSpawnDistance": 20
 }
