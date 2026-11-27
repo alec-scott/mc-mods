@@ -3,6 +3,6 @@ filename = "createbigcannons-5.11.7+mc.26.1.2-fabric.jar"
 side = "both"
 
 [download]
-url = "https://github.com/alec-scott/createbigcannons/releases/download/v5.11.7-mc26.1.2-fabric.1/createbigcannons-5.11.7%2Bmc.26.1.2-fabric.jar"
+url = "https://github.com/alec-scott/createbigcannons/releases/download/v5.11.7-mc26.1.2-fabric.2/createbigcannons-5.11.7%2Bmc.26.1.2-fabric.jar"
 hash-format = "sha256"
-hash = "dd42a02ff68b666387a659a23d68b07defc6887e91a2c32472cdfeddc04e9b1b"
+hash = "86656cb67f1b515981aa1f9f1aae8ef8c377e3ebcf6f10647b104dc6fb76ea7e"

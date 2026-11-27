@@ -132,7 +132,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-aeronautics-fabric-github.pw.toml"
-hash = "bab22dee487e123812e0e94b7ddcc5325d2eff052b397e5e0d8dac70ef50d0a6"
+hash = "67b26156186d50636a0fe88ab0cf4c4999d3394bf472ed29a78d9abe924c4aee"
 metafile = true
 
 [[files]]
@@ -187,7 +187,12 @@ metafile = true
 
 [[files]]
 file = "mods/createbigcannons-github.pw.toml"
-hash = "81b370ae7afc7f9a56c428d94fe92e8f9b609b8dc509e9dde4ce7319a1529bba"
+hash = "b725ccdb4d65d064c9bf1210758e51dd1d9db61cb9dbdd93c74ca0538fe59076"
+metafile = true
+
+[[files]]
+file = "mods/createjetpack-github.pw.toml"
+hash = "0289c1bef6110e30b7ad540e0e2ec23dec1530dd96128d14f5e8f02bab0cb7bc"
 metafile = true
 
 [[files]]

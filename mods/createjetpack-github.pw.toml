@@ -1,0 +1,9 @@
+name = "Create Jetpack (GitHub)"
+filename = "create_jetpack-fabric-5.2.1+mc26.1.2-fabric.1.jar"
+side = "both"
+pin = true
+
+[download]
+url = "https://github.com/alec-scott/CreateJetpack/releases/download/v5.2.1-mc26.1.2-fabric.1/create_jetpack-fabric-5.2.1%2Bmc26.1.2-fabric.1.jar"
+hash-format = "sha256"
+hash = "1aae78970decfdded1cfc0db00a04952a2988eff4c99f981ee996898d6bd8d3f"
