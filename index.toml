@@ -526,6 +526,11 @@ hash = "1d444d212ecb78229590e5222f3dd028aa86bdec2ec0eab4ca0a14cf16f35e3e"
 metafile = true
 
 [[files]]
+file = "mods/trinkets-updated.pw.toml"
+hash = "d0ee91a3987d4bab35ef116899882f45c1541903848c7a1c200b1dd22ef861cf"
+metafile = true
+
+[[files]]
 file = "mods/tweakeroo.pw.toml"
 hash = "7ff42ec0ba00de73b3fe8599d660bca19edb3961434eda0b1e97dd1c5f914e24"
 metafile = true

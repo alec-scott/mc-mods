@@ -1,0 +1,13 @@
+name = "Trinkets Updated"
+filename = "trinkets-4.0.1+26.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/XaT8sLP6/versions/XkGsalta/trinkets-4.0.1%2B26.1.jar"
+hash-format = "sha512"
+hash = "1fec150053ef4e8a2f89614652930709d32a7fda8d1dc86268241522df9c7b15cd87beed374f6b34ade75d7ade82ae6a0dea4d02f5ccf873f8300c7e07558024"
+
+[update]
+[update.modrinth]
+mod-id = "XaT8sLP6"
+version = "XkGsalta"
