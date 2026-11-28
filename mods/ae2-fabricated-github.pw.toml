@@ -1,0 +1,9 @@
+name = "Applied Energistics 2: Fabricated (GitHub)"
+filename = "ae2-fabricated-26.1.13-beta.1+fabric.iris.1.jar"
+side = "both"
+pin = true
+
+[download]
+url = "https://github.com/alec-scott/ae2-fabricated/releases/download/v26.1.13-beta.1-mc26.1.2-fabric.iris.1/ae2-fabricated-26.1.13-beta.1%2Bfabric.iris.1.jar"
+hash-format = "sha256"
+hash = "ef1d295128c98e09b0147c5d68bd43caef5deb99fa7494d59454b85948be8b16"

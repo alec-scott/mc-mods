@@ -21,6 +21,11 @@ file = "config/worldalive.json"
 hash = "d4cef35dcef5bf472218a45fd323b15c7032565fc8cba97d25ed89220ce78b3e"
 
 [[files]]
+file = "mods/ae2-fabricated-github.pw.toml"
+hash = "c34fa0b765d6971f6c3afdbccb60c4d88fffa553c840417a7f929f6c169c0e8a"
+metafile = true
+
+[[files]]
 file = "mods/ae2wirelessterminallibrary-github.pw.toml"
 hash = "6f3c73805a9cc010cd30b4f2c391c0a0b7ee20171558b1f3e745be5e6f756b62"
 metafile = true
@@ -43,11 +48,6 @@ metafile = true
 [[files]]
 file = "mods/appleskin.pw.toml"
 hash = "785e74169e884a0535517140796a8448a831abf7f7dfa29cf6326b178c0dcf48"
-metafile = true
-
-[[files]]
-file = "mods/applied-energistics-2-fabricated.pw.toml"
-hash = "cca1cf332ab277fb43db9df6204ec2b1d662368d853c069d31c34aa5a70394ac"
 metafile = true
 
 [[files]]
